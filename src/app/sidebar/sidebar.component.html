@@ -1,0 +1,58 @@
+<div class="container-fluid" >
+    <div class="row">
+        <div class="col-md-3" id="sidebar">
+            <nav id="sidebar">
+
+                <a href="#" class="img logo rounded-circle mb-5" style="background-image: url(images/logo.jpg);"></a>
+                <ul class="list-unstyled components mb-5"><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/appointment">Appointment</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Details">Details</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Schedule">Schedule</a>
+                    </li><br>
+                    <li><b>Patient Condition</b></li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/appointment">Patient 1</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Details">Patient 2</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Schedule">Patient 3</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/appointment">Patient 4</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Details">Patient 5</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Schedule">counselling</a>
+                    </li><br>
+                   
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Details">Laboratory services</a>
+                    </li><br>
+                    <li style="border-bottom: 1px solid gray;">
+                        <a routerLink="/Schedule">Medicines</a>
+                    </li><br>
+
+                </ul>
+
+
+            </nav>
+
+        </div>
+
+        <!-- Page Content  -->
+        <div id="content" class="col-md-9">
+            <div>
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</div>
