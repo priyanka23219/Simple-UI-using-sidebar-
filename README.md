@@ -1,5 +1,16 @@
 # DoctorUI
 
+![screencapture-localhost-4200-appointment-2021-05-02-10_37_03](https://user-images.githubusercontent.com/75573132/116802725-bfd42d00-ab32-11eb-834e-82368c107567.png)
+
+![screencapture-localhost-4200-Schedule-2021-05-02-10_37_59](https://user-images.githubusercontent.com/75573132/116802720-b945b580-ab32-11eb-8b1b-f99a962bf358.png)
+
+![screencapture-localhost-4200-Details-2021-05-02-10_37_45](https://user-images.githubusercontent.com/75573132/116802723-bea30000-ab32-11eb-9d7b-e67f1a743db8.png)
+
+![screencapture-localhost-4200-about-us-2021-05-02-10_38_23](https://user-images.githubusercontent.com/75573132/116802726-bfd42d00-ab32-11eb-9b07-34ebaf8702c8.png)
+
+![screencapture-localhost-4200-contact-us-2021-05-02-10_38_43](https://user-images.githubusercontent.com/75573132/116802724-bf3b9680-ab32-11eb-8563-3a61fb07bbd5.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
